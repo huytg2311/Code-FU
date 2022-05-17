@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BinaryWriterAndBinaryReader/1.0.0": {
+        "runtime": {
+          "BinaryWriterAndBinaryReader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryWriterAndBinaryReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

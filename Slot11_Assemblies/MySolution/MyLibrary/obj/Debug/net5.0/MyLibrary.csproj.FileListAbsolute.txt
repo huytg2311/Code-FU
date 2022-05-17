@@ -1,0 +1,12 @@
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\bin\Debug\net5.0\MyLibrary.deps.json
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\bin\Debug\net5.0\MyLibrary.dll
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\bin\Debug\net5.0\ref\MyLibrary.dll
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\bin\Debug\net5.0\MyLibrary.pdb
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.AssemblyReference.cache
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfoInputs.cache
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfo.cs
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.CoreCompileInputs.cache
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.dll
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\obj\Debug\net5.0\ref\MyLibrary.dll
+E:\PRN211-Project\Slot11_Assemblies\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.pdb

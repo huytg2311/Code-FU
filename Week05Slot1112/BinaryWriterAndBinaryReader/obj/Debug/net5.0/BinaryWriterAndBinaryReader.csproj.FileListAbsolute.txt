@@ -1,0 +1,16 @@
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\bin\Debug\net5.0\BinaryWriterAndBinaryReader.exe
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\bin\Debug\net5.0\BinaryWriterAndBinaryReader.deps.json
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\bin\Debug\net5.0\BinaryWriterAndBinaryReader.runtimeconfig.json
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\bin\Debug\net5.0\BinaryWriterAndBinaryReader.runtimeconfig.dev.json
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\bin\Debug\net5.0\BinaryWriterAndBinaryReader.dll
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\bin\Debug\net5.0\ref\BinaryWriterAndBinaryReader.dll
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\bin\Debug\net5.0\BinaryWriterAndBinaryReader.pdb
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\obj\Debug\net5.0\BinaryWriterAndBinaryReader.csproj.AssemblyReference.cache
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\obj\Debug\net5.0\BinaryWriterAndBinaryReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\obj\Debug\net5.0\BinaryWriterAndBinaryReader.AssemblyInfoInputs.cache
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\obj\Debug\net5.0\BinaryWriterAndBinaryReader.AssemblyInfo.cs
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\obj\Debug\net5.0\BinaryWriterAndBinaryReader.csproj.CoreCompileInputs.cache
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\obj\Debug\net5.0\BinaryWriterAndBinaryReader.dll
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\obj\Debug\net5.0\ref\BinaryWriterAndBinaryReader.dll
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\obj\Debug\net5.0\BinaryWriterAndBinaryReader.pdb
+E:\PRN211-Project\Week05Slot1112\BinaryWriterAndBinaryReader\obj\Debug\net5.0\BinaryWriterAndBinaryReader.genruntimeconfig.cache

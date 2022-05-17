@@ -1,0 +1,16 @@
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.exe
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.deps.json
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.runtimeconfig.json
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.runtimeconfig.dev.json
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.dll
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\bin\Debug\net5.0\ref\ListManipulationBasics.dll
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.pdb
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.csproj.AssemblyReference.cache
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.AssemblyInfo.cs
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.dll
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\obj\Debug\net5.0\ref\ListManipulationBasics.dll
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.pdb
+C:\Users\PHONG VU\source\repos\Day04\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.genruntimeconfig.cache

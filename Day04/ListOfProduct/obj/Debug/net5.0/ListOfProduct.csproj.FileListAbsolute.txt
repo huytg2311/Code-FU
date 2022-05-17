@@ -1,0 +1,15 @@
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\bin\Debug\net5.0\ListOfProduct.exe
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\bin\Debug\net5.0\ListOfProduct.deps.json
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\bin\Debug\net5.0\ListOfProduct.runtimeconfig.json
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\bin\Debug\net5.0\ListOfProduct.runtimeconfig.dev.json
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\bin\Debug\net5.0\ListOfProduct.dll
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\bin\Debug\net5.0\ref\ListOfProduct.dll
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\bin\Debug\net5.0\ListOfProduct.pdb
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\obj\Debug\net5.0\ListOfProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\obj\Debug\net5.0\ListOfProduct.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\obj\Debug\net5.0\ListOfProduct.AssemblyInfo.cs
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\obj\Debug\net5.0\ListOfProduct.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\obj\Debug\net5.0\ListOfProduct.dll
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\obj\Debug\net5.0\ref\ListOfProduct.dll
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\obj\Debug\net5.0\ListOfProduct.pdb
+C:\Users\PHONG VU\source\repos\Day04\ListOfProduct\obj\Debug\net5.0\ListOfProduct.genruntimeconfig.cache

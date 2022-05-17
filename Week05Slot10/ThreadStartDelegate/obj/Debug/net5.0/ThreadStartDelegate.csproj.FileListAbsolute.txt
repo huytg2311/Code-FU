@@ -1,0 +1,16 @@
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.exe
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.deps.json
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.runtimeconfig.json
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.runtimeconfig.dev.json
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.dll
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\bin\Debug\net5.0\ref\ThreadStartDelegate.dll
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.pdb
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.csproj.AssemblyReference.cache
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.AssemblyInfoInputs.cache
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.AssemblyInfo.cs
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.csproj.CoreCompileInputs.cache
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.dll
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\obj\Debug\net5.0\ref\ThreadStartDelegate.dll
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.pdb
+E:\PRN211-Project\Week05Slot10\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.genruntimeconfig.cache

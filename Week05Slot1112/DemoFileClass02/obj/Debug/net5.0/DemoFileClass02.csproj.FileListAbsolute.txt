@@ -1,0 +1,15 @@
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\bin\Debug\net5.0\DemoFileClass02.exe
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\bin\Debug\net5.0\DemoFileClass02.deps.json
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\bin\Debug\net5.0\DemoFileClass02.runtimeconfig.json
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\bin\Debug\net5.0\DemoFileClass02.runtimeconfig.dev.json
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\bin\Debug\net5.0\DemoFileClass02.dll
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\bin\Debug\net5.0\ref\DemoFileClass02.dll
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\bin\Debug\net5.0\DemoFileClass02.pdb
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\obj\Debug\net5.0\DemoFileClass02.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\obj\Debug\net5.0\DemoFileClass02.AssemblyInfoInputs.cache
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\obj\Debug\net5.0\DemoFileClass02.AssemblyInfo.cs
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\obj\Debug\net5.0\DemoFileClass02.csproj.CoreCompileInputs.cache
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\obj\Debug\net5.0\DemoFileClass02.dll
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\obj\Debug\net5.0\ref\DemoFileClass02.dll
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\obj\Debug\net5.0\DemoFileClass02.pdb
+E:\PRN211-Project\Week05Slot1112\DemoFileClass02\obj\Debug\net5.0\DemoFileClass02.genruntimeconfig.cache

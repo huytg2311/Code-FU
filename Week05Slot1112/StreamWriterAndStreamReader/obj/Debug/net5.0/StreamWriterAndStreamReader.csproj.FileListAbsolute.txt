@@ -1,0 +1,15 @@
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\bin\Debug\net5.0\StreamWriterAndStreamReader.exe
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\bin\Debug\net5.0\StreamWriterAndStreamReader.deps.json
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\bin\Debug\net5.0\StreamWriterAndStreamReader.runtimeconfig.json
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\bin\Debug\net5.0\StreamWriterAndStreamReader.runtimeconfig.dev.json
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\bin\Debug\net5.0\StreamWriterAndStreamReader.dll
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\bin\Debug\net5.0\ref\StreamWriterAndStreamReader.dll
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\bin\Debug\net5.0\StreamWriterAndStreamReader.pdb
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\obj\Debug\net5.0\StreamWriterAndStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\obj\Debug\net5.0\StreamWriterAndStreamReader.AssemblyInfoInputs.cache
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\obj\Debug\net5.0\StreamWriterAndStreamReader.AssemblyInfo.cs
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\obj\Debug\net5.0\StreamWriterAndStreamReader.csproj.CoreCompileInputs.cache
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\obj\Debug\net5.0\StreamWriterAndStreamReader.dll
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\obj\Debug\net5.0\ref\StreamWriterAndStreamReader.dll
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\obj\Debug\net5.0\StreamWriterAndStreamReader.pdb
+E:\PRN211-Project\Week05Slot1112\StreamWriterAndStreamReader\obj\Debug\net5.0\StreamWriterAndStreamReader.genruntimeconfig.cache

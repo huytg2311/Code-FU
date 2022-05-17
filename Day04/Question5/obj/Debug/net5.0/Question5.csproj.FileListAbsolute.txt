@@ -1,0 +1,15 @@
+C:\Users\PHONG VU\source\repos\Day04\Question5\bin\Debug\net5.0\Question5.exe
+C:\Users\PHONG VU\source\repos\Day04\Question5\bin\Debug\net5.0\Question5.deps.json
+C:\Users\PHONG VU\source\repos\Day04\Question5\bin\Debug\net5.0\Question5.runtimeconfig.json
+C:\Users\PHONG VU\source\repos\Day04\Question5\bin\Debug\net5.0\Question5.runtimeconfig.dev.json
+C:\Users\PHONG VU\source\repos\Day04\Question5\bin\Debug\net5.0\Question5.dll
+C:\Users\PHONG VU\source\repos\Day04\Question5\bin\Debug\net5.0\ref\Question5.dll
+C:\Users\PHONG VU\source\repos\Day04\Question5\bin\Debug\net5.0\Question5.pdb
+C:\Users\PHONG VU\source\repos\Day04\Question5\obj\Debug\net5.0\Question5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\source\repos\Day04\Question5\obj\Debug\net5.0\Question5.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\source\repos\Day04\Question5\obj\Debug\net5.0\Question5.AssemblyInfo.cs
+C:\Users\PHONG VU\source\repos\Day04\Question5\obj\Debug\net5.0\Question5.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\source\repos\Day04\Question5\obj\Debug\net5.0\Question5.dll
+C:\Users\PHONG VU\source\repos\Day04\Question5\obj\Debug\net5.0\ref\Question5.dll
+C:\Users\PHONG VU\source\repos\Day04\Question5\obj\Debug\net5.0\Question5.pdb
+C:\Users\PHONG VU\source\repos\Day04\Question5\obj\Debug\net5.0\Question5.genruntimeconfig.cache

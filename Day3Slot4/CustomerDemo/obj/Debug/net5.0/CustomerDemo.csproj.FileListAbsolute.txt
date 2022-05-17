@@ -1,0 +1,16 @@
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\bin\Debug\net5.0\CustomerDemo.exe
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\bin\Debug\net5.0\CustomerDemo.deps.json
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\bin\Debug\net5.0\CustomerDemo.runtimeconfig.json
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\bin\Debug\net5.0\CustomerDemo.runtimeconfig.dev.json
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\bin\Debug\net5.0\CustomerDemo.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\bin\Debug\net5.0\ref\CustomerDemo.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\bin\Debug\net5.0\CustomerDemo.pdb
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\obj\Debug\net5.0\CustomerDemo.csproj.AssemblyReference.cache
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\obj\Debug\net5.0\CustomerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\obj\Debug\net5.0\CustomerDemo.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\obj\Debug\net5.0\CustomerDemo.AssemblyInfo.cs
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\obj\Debug\net5.0\CustomerDemo.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\obj\Debug\net5.0\CustomerDemo.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\obj\Debug\net5.0\ref\CustomerDemo.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\obj\Debug\net5.0\CustomerDemo.pdb
+C:\Users\PHONG VU\source\repos\Day3Slot4\CustomerDemo\obj\Debug\net5.0\CustomerDemo.genruntimeconfig.cache

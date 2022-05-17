@@ -1,0 +1,5 @@
+{
+  "ConnectionString": {
+    "MyStoreDB": "Server=MSI\\SQLEXPRESS;uid=sa;pwd=huytg23;database=MyStore"
+  }
+}

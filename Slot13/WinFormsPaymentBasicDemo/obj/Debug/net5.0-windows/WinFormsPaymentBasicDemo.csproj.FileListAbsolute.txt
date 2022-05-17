@@ -1,0 +1,17 @@
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\bin\Debug\net5.0-windows\WinFormsPaymentBasicDemo.exe
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\bin\Debug\net5.0-windows\WinFormsPaymentBasicDemo.deps.json
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\bin\Debug\net5.0-windows\WinFormsPaymentBasicDemo.runtimeconfig.json
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\bin\Debug\net5.0-windows\WinFormsPaymentBasicDemo.runtimeconfig.dev.json
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\bin\Debug\net5.0-windows\WinFormsPaymentBasicDemo.dll
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\bin\Debug\net5.0-windows\ref\WinFormsPaymentBasicDemo.dll
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\bin\Debug\net5.0-windows\WinFormsPaymentBasicDemo.pdb
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\obj\Debug\net5.0-windows\WinFormsPaymentBasicDemo.Form1.resources
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\obj\Debug\net5.0-windows\WinFormsPaymentBasicDemo.csproj.GenerateResource.cache
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\obj\Debug\net5.0-windows\WinFormsPaymentBasicDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\obj\Debug\net5.0-windows\WinFormsPaymentBasicDemo.AssemblyInfoInputs.cache
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\obj\Debug\net5.0-windows\WinFormsPaymentBasicDemo.AssemblyInfo.cs
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\obj\Debug\net5.0-windows\WinFormsPaymentBasicDemo.csproj.CoreCompileInputs.cache
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\obj\Debug\net5.0-windows\WinFormsPaymentBasicDemo.dll
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\obj\Debug\net5.0-windows\ref\WinFormsPaymentBasicDemo.dll
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\obj\Debug\net5.0-windows\WinFormsPaymentBasicDemo.pdb
+D:\PRN211-Project\Slot13\WinFormsPaymentBasicDemo\obj\Debug\net5.0-windows\WinFormsPaymentBasicDemo.genruntimeconfig.cache

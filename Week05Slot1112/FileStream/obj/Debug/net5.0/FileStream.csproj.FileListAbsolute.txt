@@ -1,0 +1,15 @@
+E:\PRN211-Project\Week05Slot1112\FileStream\bin\Debug\net5.0\FileStream.exe
+E:\PRN211-Project\Week05Slot1112\FileStream\bin\Debug\net5.0\FileStream.deps.json
+E:\PRN211-Project\Week05Slot1112\FileStream\bin\Debug\net5.0\FileStream.runtimeconfig.json
+E:\PRN211-Project\Week05Slot1112\FileStream\bin\Debug\net5.0\FileStream.runtimeconfig.dev.json
+E:\PRN211-Project\Week05Slot1112\FileStream\bin\Debug\net5.0\FileStream.dll
+E:\PRN211-Project\Week05Slot1112\FileStream\bin\Debug\net5.0\ref\FileStream.dll
+E:\PRN211-Project\Week05Slot1112\FileStream\bin\Debug\net5.0\FileStream.pdb
+E:\PRN211-Project\Week05Slot1112\FileStream\obj\Debug\net5.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-Project\Week05Slot1112\FileStream\obj\Debug\net5.0\FileStream.AssemblyInfoInputs.cache
+E:\PRN211-Project\Week05Slot1112\FileStream\obj\Debug\net5.0\FileStream.AssemblyInfo.cs
+E:\PRN211-Project\Week05Slot1112\FileStream\obj\Debug\net5.0\FileStream.csproj.CoreCompileInputs.cache
+E:\PRN211-Project\Week05Slot1112\FileStream\obj\Debug\net5.0\FileStream.dll
+E:\PRN211-Project\Week05Slot1112\FileStream\obj\Debug\net5.0\ref\FileStream.dll
+E:\PRN211-Project\Week05Slot1112\FileStream\obj\Debug\net5.0\FileStream.pdb
+E:\PRN211-Project\Week05Slot1112\FileStream\obj\Debug\net5.0\FileStream.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\bin\Debug\net5.0\GenericApplication.exe
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\bin\Debug\net5.0\GenericApplication.deps.json
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\bin\Debug\net5.0\GenericApplication.runtimeconfig.json
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\bin\Debug\net5.0\GenericApplication.runtimeconfig.dev.json
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\bin\Debug\net5.0\GenericApplication.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\bin\Debug\net5.0\ref\GenericApplication.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\bin\Debug\net5.0\GenericApplication.pdb
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\obj\Debug\net5.0\GenericApplication.csproj.AssemblyReference.cache
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\obj\Debug\net5.0\GenericApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\obj\Debug\net5.0\GenericApplication.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\obj\Debug\net5.0\GenericApplication.AssemblyInfo.cs
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\obj\Debug\net5.0\GenericApplication.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\obj\Debug\net5.0\GenericApplication.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\obj\Debug\net5.0\ref\GenericApplication.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\obj\Debug\net5.0\GenericApplication.pdb
+C:\Users\PHONG VU\source\repos\Day3Slot4\GenericApplication\obj\Debug\net5.0\GenericApplication.genruntimeconfig.cache

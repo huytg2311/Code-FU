@@ -1,0 +1,15 @@
+E:\PRN221-Project\Day-02\Question05\bin\Debug\net5.0\Question05.exe
+E:\PRN221-Project\Day-02\Question05\bin\Debug\net5.0\Question05.deps.json
+E:\PRN221-Project\Day-02\Question05\bin\Debug\net5.0\Question05.runtimeconfig.json
+E:\PRN221-Project\Day-02\Question05\bin\Debug\net5.0\Question05.runtimeconfig.dev.json
+E:\PRN221-Project\Day-02\Question05\bin\Debug\net5.0\Question05.dll
+E:\PRN221-Project\Day-02\Question05\bin\Debug\net5.0\ref\Question05.dll
+E:\PRN221-Project\Day-02\Question05\bin\Debug\net5.0\Question05.pdb
+E:\PRN221-Project\Day-02\Question05\obj\Debug\net5.0\Question05.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN221-Project\Day-02\Question05\obj\Debug\net5.0\Question05.AssemblyInfoInputs.cache
+E:\PRN221-Project\Day-02\Question05\obj\Debug\net5.0\Question05.AssemblyInfo.cs
+E:\PRN221-Project\Day-02\Question05\obj\Debug\net5.0\Question05.csproj.CoreCompileInputs.cache
+E:\PRN221-Project\Day-02\Question05\obj\Debug\net5.0\Question05.dll
+E:\PRN221-Project\Day-02\Question05\obj\Debug\net5.0\ref\Question05.dll
+E:\PRN221-Project\Day-02\Question05\obj\Debug\net5.0\Question05.pdb
+E:\PRN221-Project\Day-02\Question05\obj\Debug\net5.0\Question05.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\PHONG VU\source\repos\Week03\Question02\bin\Debug\net5.0\Question02.exe
+C:\Users\PHONG VU\source\repos\Week03\Question02\bin\Debug\net5.0\Question02.deps.json
+C:\Users\PHONG VU\source\repos\Week03\Question02\bin\Debug\net5.0\Question02.runtimeconfig.json
+C:\Users\PHONG VU\source\repos\Week03\Question02\bin\Debug\net5.0\Question02.runtimeconfig.dev.json
+C:\Users\PHONG VU\source\repos\Week03\Question02\bin\Debug\net5.0\Question02.dll
+C:\Users\PHONG VU\source\repos\Week03\Question02\bin\Debug\net5.0\ref\Question02.dll
+C:\Users\PHONG VU\source\repos\Week03\Question02\bin\Debug\net5.0\Question02.pdb
+C:\Users\PHONG VU\source\repos\Week03\Question02\obj\Debug\net5.0\Question02.csproj.AssemblyReference.cache
+C:\Users\PHONG VU\source\repos\Week03\Question02\obj\Debug\net5.0\Question02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\source\repos\Week03\Question02\obj\Debug\net5.0\Question02.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\source\repos\Week03\Question02\obj\Debug\net5.0\Question02.AssemblyInfo.cs
+C:\Users\PHONG VU\source\repos\Week03\Question02\obj\Debug\net5.0\Question02.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\source\repos\Week03\Question02\obj\Debug\net5.0\Question02.dll
+C:\Users\PHONG VU\source\repos\Week03\Question02\obj\Debug\net5.0\ref\Question02.dll
+C:\Users\PHONG VU\source\repos\Week03\Question02\obj\Debug\net5.0\Question02.pdb
+C:\Users\PHONG VU\source\repos\Week03\Question02\obj\Debug\net5.0\Question02.genruntimeconfig.cache

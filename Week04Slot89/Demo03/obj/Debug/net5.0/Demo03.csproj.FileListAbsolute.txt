@@ -1,0 +1,16 @@
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\bin\Debug\net5.0\Demo03.exe
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\bin\Debug\net5.0\Demo03.deps.json
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\bin\Debug\net5.0\Demo03.runtimeconfig.json
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\bin\Debug\net5.0\Demo03.runtimeconfig.dev.json
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\bin\Debug\net5.0\Demo03.dll
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\bin\Debug\net5.0\ref\Demo03.dll
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\bin\Debug\net5.0\Demo03.pdb
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\obj\Debug\net5.0\Demo03.csproj.AssemblyReference.cache
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\obj\Debug\net5.0\Demo03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\obj\Debug\net5.0\Demo03.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\obj\Debug\net5.0\Demo03.AssemblyInfo.cs
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\obj\Debug\net5.0\Demo03.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\obj\Debug\net5.0\Demo03.dll
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\obj\Debug\net5.0\ref\Demo03.dll
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\obj\Debug\net5.0\Demo03.pdb
+C:\Users\PHONG VU\source\repos\Week04Slot89\Demo03\obj\Debug\net5.0\Demo03.genruntimeconfig.cache

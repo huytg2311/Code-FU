@@ -1,0 +1,16 @@
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\bin\Debug\net5.0\EnumeratingAssemblies.exe
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\bin\Debug\net5.0\EnumeratingAssemblies.deps.json
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\bin\Debug\net5.0\EnumeratingAssemblies.runtimeconfig.json
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\bin\Debug\net5.0\EnumeratingAssemblies.runtimeconfig.dev.json
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\bin\Debug\net5.0\EnumeratingAssemblies.dll
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\bin\Debug\net5.0\ref\EnumeratingAssemblies.dll
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\bin\Debug\net5.0\EnumeratingAssemblies.pdb
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\obj\Debug\net5.0\EnumeratingAssemblies.csproj.AssemblyReference.cache
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\obj\Debug\net5.0\EnumeratingAssemblies.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\obj\Debug\net5.0\EnumeratingAssemblies.AssemblyInfoInputs.cache
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\obj\Debug\net5.0\EnumeratingAssemblies.AssemblyInfo.cs
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\obj\Debug\net5.0\EnumeratingAssemblies.csproj.CoreCompileInputs.cache
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\obj\Debug\net5.0\EnumeratingAssemblies.dll
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\obj\Debug\net5.0\ref\EnumeratingAssemblies.dll
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\obj\Debug\net5.0\EnumeratingAssemblies.pdb
+E:\PRN211-Project\Week05Slot10\EnumeratingAssemblies\obj\Debug\net5.0\EnumeratingAssemblies.genruntimeconfig.cache

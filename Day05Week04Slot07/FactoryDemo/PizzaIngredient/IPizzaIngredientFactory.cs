@@ -1,0 +1,15 @@
+﻿using FactoryDemo.PizzaIngredient.Ingredients;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FactoryDemo.PizzaIngredient
+{
+    public interface IPizzaIngredientFactory
+    {
+        IChesse CreateChesse();
+        List<IVeggie> CreateVeggies();
+    }
+}

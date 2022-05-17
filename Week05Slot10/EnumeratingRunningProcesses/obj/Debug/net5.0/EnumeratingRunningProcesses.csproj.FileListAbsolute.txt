@@ -1,0 +1,15 @@
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\obj\Debug\net5.0\EnumeratingRunningProcesses.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\obj\Debug\net5.0\EnumeratingRunningProcesses.AssemblyInfoInputs.cache
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\obj\Debug\net5.0\EnumeratingRunningProcesses.AssemblyInfo.cs
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\obj\Debug\net5.0\EnumeratingRunningProcesses.csproj.CoreCompileInputs.cache
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\bin\Debug\net5.0\EnumeratingRunningProcesses.exe
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\bin\Debug\net5.0\EnumeratingRunningProcesses.deps.json
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\bin\Debug\net5.0\EnumeratingRunningProcesses.runtimeconfig.json
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\bin\Debug\net5.0\EnumeratingRunningProcesses.runtimeconfig.dev.json
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\bin\Debug\net5.0\EnumeratingRunningProcesses.dll
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\bin\Debug\net5.0\ref\EnumeratingRunningProcesses.dll
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\bin\Debug\net5.0\EnumeratingRunningProcesses.pdb
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\obj\Debug\net5.0\EnumeratingRunningProcesses.dll
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\obj\Debug\net5.0\ref\EnumeratingRunningProcesses.dll
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\obj\Debug\net5.0\EnumeratingRunningProcesses.pdb
+E:\PRN211-Project\Week05Slot10\EnumeratingRunningProcesses\obj\Debug\net5.0\EnumeratingRunningProcesses.genruntimeconfig.cache

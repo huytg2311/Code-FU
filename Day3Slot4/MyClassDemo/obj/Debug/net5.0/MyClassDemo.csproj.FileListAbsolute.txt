@@ -1,0 +1,15 @@
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\bin\Debug\net5.0\MyClassDemo.exe
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\bin\Debug\net5.0\MyClassDemo.deps.json
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\bin\Debug\net5.0\MyClassDemo.runtimeconfig.json
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\bin\Debug\net5.0\MyClassDemo.runtimeconfig.dev.json
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\bin\Debug\net5.0\MyClassDemo.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\bin\Debug\net5.0\ref\MyClassDemo.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\bin\Debug\net5.0\MyClassDemo.pdb
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\obj\Debug\net5.0\MyClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\obj\Debug\net5.0\MyClassDemo.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\obj\Debug\net5.0\MyClassDemo.AssemblyInfo.cs
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\obj\Debug\net5.0\MyClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\obj\Debug\net5.0\MyClassDemo.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\obj\Debug\net5.0\ref\MyClassDemo.dll
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\obj\Debug\net5.0\MyClassDemo.pdb
+C:\Users\PHONG VU\source\repos\Day3Slot4\MyClassDemo\obj\Debug\net5.0\MyClassDemo.genruntimeconfig.cache
